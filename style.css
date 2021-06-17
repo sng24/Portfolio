@@ -1,0 +1,29 @@
+div {
+    color: hotpink;
+    background-color: white;
+}
+body{
+    background-color: lightpink;
+}
+h1{
+    text-align: center
+}
+
+.white_div {
+    background-color: white;
+}
+
+.travel_div {
+    background-color: orange;
+}
+
+.swatch {
+    height: 100px;
+    width: 100px;
+}
+.darkBlue{
+    background-color: darkblue;
+}
+.darkGrey{
+    background-color: darkgrey;
+}
